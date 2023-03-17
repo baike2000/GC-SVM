@@ -1,0 +1,5 @@
+C:\DiskD\users\timelysoft\olymp_krsu\Olymp.KRSU\ContesterJudge\MLTemplate\MLTemplate\obj\Debug\net7.0\SVM.csproj.AssemblyReference.cache
+C:\DiskD\users\timelysoft\olymp_krsu\Olymp.KRSU\ContesterJudge\MLTemplate\MLTemplate\obj\Debug\net7.0\SVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\users\timelysoft\olymp_krsu\Olymp.KRSU\ContesterJudge\MLTemplate\MLTemplate\obj\Debug\net7.0\SVM.AssemblyInfoInputs.cache
+C:\DiskD\users\timelysoft\olymp_krsu\Olymp.KRSU\ContesterJudge\MLTemplate\MLTemplate\obj\Debug\net7.0\SVM.AssemblyInfo.cs
+C:\DiskD\users\timelysoft\olymp_krsu\Olymp.KRSU\ContesterJudge\MLTemplate\MLTemplate\obj\Debug\net7.0\SVM.csproj.CoreCompileInputs.cache
