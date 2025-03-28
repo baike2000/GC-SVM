@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MLTemplate/obj/Debug/net7.0/SVM.AssemblyInfoInputs.cache
+/MLTemplate/obj/Debug/net7.0/SVM.assets.cache
+/MLTemplate/obj/Debug/net7.0/SVM.csproj.AssemblyReference.cache
+/MLTemplate/obj/Debug/net7.0/SVM.GeneratedMSBuildEditorConfig.editorconfig
+/MLTemplate/obj/Release/net7.0/SVM.AssemblyInfoInputs.cache
+/MLTemplate/obj/Release/net7.0/SVM.assets.cache
+/MLTemplate/obj/Release/net7.0/SVM.csproj.AssemblyReference.cache
+/MLTemplate/obj/Release/net7.0/SVM.GeneratedMSBuildEditorConfig.editorconfig
+/MLTemplate/obj/project.assets.json
+/MLTemplate/obj/project.nuget.cache
+/MLTemplate/obj/SVM.csproj.nuget.dgspec.json
+/MLTemplate/obj/SVM.csproj.nuget.g.props
+/MLTemplate/obj/Release/net7.0/SVM.AssemblyInfo.cs
+/MLTemplate/obj/Debug/net7.0/SVM.AssemblyInfo.cs
